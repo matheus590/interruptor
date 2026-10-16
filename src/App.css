@@ -1,0 +1,9 @@
+button.interruptor.ativo {
+  background-color: green;
+  color: white;
+}
+
+button.interruptor.inativo {
+  background-color: rgb(243, 242, 242);
+  color: rgb(255, 0, 0);
+}
